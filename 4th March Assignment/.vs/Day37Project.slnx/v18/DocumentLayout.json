@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\productrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\productrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\migrations\\20260302060911_seeded data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302060911_seeded data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\migrations\\20260302053323_added 3more tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302053323_added 3more tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\migrations\\20260302043740_db created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302043740_db created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day37project\\codefirstefdemo\\migrations\\20260302045641_renamestudentstocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFdemo\\CodeFirstEFdemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302045641_renamestudentstocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository2.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\ProductRepository2.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\ProductRepository2.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\ProductRepository2.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\ProductRepository2.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:39:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\ProductRepository.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:14:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\IProductRepository.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:13:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:09:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260302060911_seeded data.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302060911_seeded data.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Migrations\\20260302060911_seeded data.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302060911_seeded data.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Migrations\\20260302060911_seeded data.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:09:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260302053323_added 3more tables.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302053323_added 3more tables.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Migrations\\20260302053323_added 3more tables.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302053323_added 3more tables.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Migrations\\20260302053323_added 3more tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:33:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Author.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Models\\Author.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:20:02.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:28:15.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Course.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Models\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:19:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Students.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Models\\Students.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:19:30.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260302043740_Db Created.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302043740_Db Created.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Migrations\\20260302043740_Db Created.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302043740_Db Created.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Migrations\\20260302043740_Db Created.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:37:40.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Product.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:23:46.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Models\\Category.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:21:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260302045641_RenameStudentsToCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302045641_RenameStudentsToCategory.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFdemo\\Migrations\\20260302045641_RenameStudentsToCategory.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day37Project\\CodeFirstEFdemo\\Migrations\\20260302045641_RenameStudentsToCategory.cs",
+              "RelativeToolTip": "CodeFirstEFdemo\\Migrations\\20260302045641_RenameStudentsToCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:56:41.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
