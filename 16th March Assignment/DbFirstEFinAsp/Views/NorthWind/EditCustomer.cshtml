@@ -1,0 +1,39 @@
+﻿@model DbFirstEFinAsp.Models.NorthWindViewModels.SpainCustomerViewModel
+
+@{
+    ViewData["Title"] = "EditCustomer";
+}
+
+<h1>EditCustomer</h1>
+
+<h4>SpainCustomerViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditCustomer" asp-controller="NorthWind" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Cid" />
+            <div class="form-group">
+                <label asp-for="Cname" class="control-label"></label>
+                <input asp-for="Cname" class="form-control" />
+                <span asp-validation-for="Cname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Comname" class="control-label"></label>
+                <input asp-for="Comname" class="form-control" />
+                <span asp-validation-for="Comname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

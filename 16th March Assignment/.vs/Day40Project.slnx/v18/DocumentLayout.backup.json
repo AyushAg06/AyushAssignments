@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day40project\\dbfirstefinasp\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|solutionrelative:dbfirstefinasp\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\EditCustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbFirstEFinAsp\\Views\\NorthWind\\EditCustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day40project\\dbfirstefinasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|solutionrelative:dbfirstefinasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day40project\\dbfirstefinasp\\views\\northwind\\spaincustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|solutionrelative:dbfirstefinasp\\views\\northwind\\spaincustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day40project\\dbfirstefinasp\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|solutionrelative:dbfirstefinasp\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day40project\\dbfirstefinasp\\models\\northwindviewmodels\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4006DF-A5BA-4BDB-9441-E29F2EBAD713}|DbFirstEFinAsp\\DbFirstEFinAsp.csproj|solutionrelative:dbfirstefinasp\\models\\northwindviewmodels\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Models\\NorthWindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbFirstEFinAsp\\Models\\NorthWindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpainCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\SpainCustomer.cshtml",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Views\\NorthWind\\SpainCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\SpainCustomer.cshtml",
+              "RelativeToolTip": "DbFirstEFinAsp\\Views\\NorthWind\\SpainCustomer.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T05:21:10.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DbFirstEFinAsp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:29:25.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthWindController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Controllers\\NorthWindController.cs",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Controllers\\NorthWindController.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Controllers\\NorthWindController.cs",
+              "RelativeToolTip": "DbFirstEFinAsp\\Controllers\\NorthWindController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:02:11.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "RelativeToolTip": "DbFirstEFinAsp\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:29:11.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\EditCustomer.cshtml",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Views\\NorthWind\\EditCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Views\\NorthWind\\EditCustomer.cshtml",
+              "RelativeToolTip": "DbFirstEFinAsp\\Views\\NorthWind\\EditCustomer.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:55:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpainCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Models\\NorthWindViewModels\\SpainCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Models\\NorthWindViewModels\\SpainCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Models\\NorthWindViewModels\\SpainCustomerViewModel.cs",
+              "RelativeToolTip": "DbFirstEFinAsp\\Models\\NorthWindViewModels\\SpainCustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:09:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthWindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Models\\NorthWindContext.cs",
+              "RelativeDocumentMoniker": "DbFirstEFinAsp\\Models\\NorthWindContext.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day40Project\\DbFirstEFinAsp\\Models\\NorthWindContext.cs",
+              "RelativeToolTip": "DbFirstEFinAsp\\Models\\NorthWindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:56:26.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
