@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0095CAAA-683E-4B43-A0EC-6A4589D3316E}|RoutingExample\\RoutingExample.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095CAAA-683E-4B43-A0EC-6A4589D3316E}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\fewcolumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoutingExample\\Views\\Student\\fewcolumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095CAAA-683E-4B43-A0EC-6A4589D3316E}|RoutingExample\\RoutingExample.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\routingexample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095CAAA-683E-4B43-A0EC-6A4589D3316E}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\GetStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoutingExample\\Views\\Student\\GetStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\GetAllStudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoutingExample\\Views\\Student\\GetAllStudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095CAAA-683E-4B43-A0EC-6A4589D3316E}|RoutingExample\\RoutingExample.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\routingexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095CAAA-683E-4B43-A0EC-6A4589D3316E}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\views\\home\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\views\\home\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\views\\shared\\_empcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\views\\shared\\_empcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\DisplayAllEmp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartialViewDemo\\Views\\Home\\DisplayAllEmp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartialViewDemo\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|c:\\users\\ayush agarwal\\desktop\\dotnet\\day43project\\partialviewdemo\\views\\shared\\_sublayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2C7508-024A-45D4-A067-EE31EA70881B}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\views\\shared\\_sublayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Program.cs",
+              "RelativeToolTip": "RoutingExample\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:30:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fewcolumns.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\fewcolumns.cshtml",
+              "RelativeDocumentMoniker": "RoutingExample\\Views\\Student\\fewcolumns.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\fewcolumns.cshtml",
+              "RelativeToolTip": "RoutingExample\\Views\\Student\\fewcolumns.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:25:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\GetStudent.cshtml",
+              "RelativeDocumentMoniker": "RoutingExample\\Views\\Student\\GetStudent.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\GetStudent.cshtml",
+              "RelativeToolTip": "RoutingExample\\Views\\Student\\GetStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:24:27.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "RoutingExample\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "RoutingExample\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:23:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RoutingExample\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:13:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\RoutingExample\\Models\\Student.cs",
+              "RelativeToolTip": "RoutingExample\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:10:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisplayAllEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\DisplayAllEmp.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Home\\DisplayAllEmp.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\DisplayAllEmp.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Home\\DisplayAllEmp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:57:20.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\DisplayEmployee.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Home\\DisplayEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\DisplayEmployee.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Home\\DisplayEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:38:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "PartialViewDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:33:12.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Card.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_Card.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Shared\\_Card.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_Card.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Shared\\_Card.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:27:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:21:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialViewDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:20:40.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_EmpCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:50:28.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_SubLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:16:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ayush Agarwal\\Desktop\\DotNet\\Day43Project\\PartialViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:13:54.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
